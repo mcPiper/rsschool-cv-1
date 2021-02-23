@@ -45,6 +45,14 @@ const fizzBuzz = (begin, end) => {
 
 ## Education
 
-w#### [2009 - 2012] Rostov-on-Don College of Communications and Informatics
+#### [2009 - 2012] Rostov-on-Don College of Communications and Informatics
 ##### Bachelor in Control and Automation engineering
 Graduated with honors
+
+### Courses:
+- https://hexlet.io
+- https://htmlacademy.ru
+
+### Languages:
+- English - A2
+- Russian - native
