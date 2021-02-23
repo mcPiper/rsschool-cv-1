@@ -1,1 +1,1 @@
-# rsschool-cv
+https://spawnleon.github.io/rsschool-cv/cv
