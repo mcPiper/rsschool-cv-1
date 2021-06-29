@@ -27,6 +27,8 @@ pre {
 
 body {
   background-color : #bdbec0;
+  margin           : 0;
+  padding          : 0;
 }
 
 .container {
@@ -43,8 +45,8 @@ body {
 
 .side-panel {
   width      : 33%;
-  color      : #424242;
-  background : linear-gradient(204deg, #00bcd4 0%, #00bcd4 100%);
+  color      : #fff;
+  background : #2a3342;
 }
 
 .avatar {
@@ -52,6 +54,7 @@ body {
   margin        : 15% auto;
   width         : 70%;
   border-radius : 100%;
+  border        : 5px solid #fff;
 }
 
 .aside-section {
@@ -74,25 +77,6 @@ body {
 
 .contact-icon {
   margin-right : 5%;
-}
-
-.hard-skills li {
-  list-style-type : none;
-}
-
-.meter {
-  width            : 50%;
-  height           : 10px;
-  margin-top       : 3%;
-  background-color : #a0a0a0;
-}
-
-.meter span {
-  display          : block;
-  width            : 50%;
-  height           : 100%;
-  background-color : #f2f2f2;
-
 }
 
 .main-content {
@@ -130,13 +114,6 @@ header {
 
 .main-list li {
   list-style-type : none;
-}
-
-.code-example {
-  display      : block;
-  width        : 70%;
-  margin-left  : auto;
-  margin-right : auto;
 }
 
 .footer {
