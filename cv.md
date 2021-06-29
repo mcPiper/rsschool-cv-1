@@ -2,15 +2,15 @@
 tg: @SpawnLeon | mob: +79200272716 | email: al.al.leonov@yandex.ru
 
 
-##Full-stack web developer. Current job stack:
-- Javascript: ES6+, Vue/Vuex/Vue-router, Nuxt.js
-- PHP, MySQL, jQuery, Bootstrap, Git, BEM
-- Layout: html,  CSS/Sass/SCSS/PostCSS
-- Miscellaneous: Node, npm, webpack, parcel, babel, ESlint
+###Full-stack web developer. Current job stack:
+- Frontend: ES6+, Vue/Vuex/Vue-router, Nuxt.js.
+- Backend: PHP, MySQL, Node.
+- Layout: html,  CSS/Sass/SCSS/PostCSS, Bootstrap, BEM.
+- Miscellaneous: Node, npm, webpack, parcel, babel, ESlint, Git.
 - CMS: drupal, Bitrix, Joomla, Wordpress
 
 
-## Code example
+### Code example
 ```
 const fizzBuzz = (begin, end) => {
   for (let i = begin; i <= end; i += 1) {
@@ -24,35 +24,35 @@ const fizzBuzz = (begin, end) => {
 ```
 
 
-## Experience:
+### Experience:
 
-### Nuber (from 04.2020 to 12.2020)
-- Development, support and modification web applications on React and Vue.js;
+#### Nuber (from 04.2020 to 12.2020)
+- Development, support and modification web applications on React, Vue.js and Nuxt.js;
 - Legacy code refactoring and debugging;
 
-### ООО "Иторум" (from 04.2020 to 12.2020)
-- Development, support and modification eSHop;
+#### LLC "Itorum" (from 04.2020 to 12.2020)
+- Development, support and modification eSHop on Bitrix;
 - Legacy code refactoring and debugging;
 - Developed new modules for shop;
 - API integration for eCommerce
 
 
-### ООО "Бихайв" (from 07.2013 to 03.2020)
+#### LLC "Beehive" (from 07.2013 to 03.2020)
 - Development, support and modification websites and web applications;
 - Legacy code refactoring and debugging;
 - Developed new modules for shop;
 - API integration for eCommerce
 
-## Education
+### Education
 
-#### [2009 - 2012] Rostov-on-Don College of Communications and Informatics
-##### Bachelor in Control and Automation engineering
+##### [2009 - 2012] Rostov-on-Don College of Communications and Informatics
+###### Bachelor in Control and Automation engineering
 Graduated with honors
 
-### Courses:
-- https://hexlet.io
-- https://htmlacademy.ru
+#### Courses:
+- https://ru.hexlet.io/u/alleonov
+- https://htmlacademy.ru/profile/spawnleon
 
-### Languages:
+#### Languages:
 - English - A2
 - Russian - native
